@@ -1,0 +1,12 @@
+8000
+0 10 0
+GridSize 5
+MaxMotionDistance 0.3
+RestOffset 0.5
+ContactOffset 2
+Restitution 0
+DynamicFriction 0.1
+RestParticleDistance 0.8
+Viscosity 20.0
+Stiffness 0.0
+Damping 10.0
